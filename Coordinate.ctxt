@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Coordinate
+comment1.params=r\ c
+comment1.target=Coordinate(int,\ int)
+comment2.params=
+comment2.target=int\ getR()
+comment3.params=
+comment3.target=int\ getC()
+comment4.params=a
+comment4.target=boolean\ equals(Coordinate)
+numComments=5
